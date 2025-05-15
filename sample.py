@@ -1,6 +1,6 @@
 a=5
 b=8
-
-sum=a+b
+c=9
+sum=a+b+c
 
 print sum
