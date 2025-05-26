@@ -3,4 +3,4 @@ b=8
 c=9
 sum=a+b+c
 
-print sum
+print (sum)
